@@ -12,4 +12,10 @@ This dissertation project aims to detect vehicle speed and monitor traffic in re
 - Supports data collection for further research and analysis
   # Hardware setup
   Raspbeery pi 2 camera module
-  
+  USB OTG Cable
+  Heat sink
+  USB SD Card
+  # Advantages
+  Accurate and reliable traffic and survelliance system
+  Adaptability to work in damp environment
+  Reliable compare to existing traffic survelliance system. 
