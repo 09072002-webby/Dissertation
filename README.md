@@ -10,3 +10,6 @@ This dissertation project aims to detect vehicle speed and monitor traffic in re
 - Vehicle classifiction
 - Traffic congestion monitoring 
 - Supports data collection for further research and analysis
+  # Hardware setup
+  Raspbeery pi 2 camera module
+  
